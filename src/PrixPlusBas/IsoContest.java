@@ -1,4 +1,4 @@
-package PrixPlusBas;
+package prixPlusBas;
 
 import java.util.*;
 

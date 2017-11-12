@@ -1,4 +1,4 @@
-package Bataille;
+package bataille;
 
 import java.util.*;
 
